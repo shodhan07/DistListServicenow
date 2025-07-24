@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1645407_distlist_names_of_dl</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 09:55:14</sys_created_on>
+        <sys_id>8c757f1f83f22210acf7f0ffeeaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1645407_distlist_names_of_dl</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>ua_table_licensing_config_8c757f1f83f22210acf7f0ffeeaad3ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 09:55:14</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</application>
+        <file_path/>
+        <instance_id>67ffbf922b5f9214323ef9f66e91bf65</instance_id>
+        <instance_name>dev293067</instance_name>
+        <name>ua_table_licensing_config_8c757f1f83f22210acf7f0ffeeaad3ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="DELETE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_1645407_distlist_names_of_dl</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-23 09:55:14</sys_created_on><sys_id>8c757f1f83f22210acf7f0ffeeaad3ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1645407_distlist_names_of_dl</sys_name><sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package><sys_policy/><sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope><sys_update_name>ua_table_licensing_config_8c757f1f83f22210acf7f0ffeeaad3ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-23 09:55:14</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>30048241</payload_hash>
+        <record_name>x_1645407_distlist_names_of_dl</record_name>
+        <reverted_from/>
+        <source>985c471b83322210acf7f0ffeeaad3d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 10:01:26</sys_created_on>
+        <sys_id>b6d67bdf83f22210acf7f0ffeeaad302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19836bb142c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 10:01:26</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>bad67bdfacf2221057705768abf92401</update_guid>
+        <update_guid_history>bad67bdfacf2221057705768abf92401:30048241</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 10:30:25</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>04da69efa8ae43a0814ecfcf38d87900</sys_id>
+        <sys_metadata>8c757f1f83f22210acf7f0ffeeaad3ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1645407_distlist_names_of_dl</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_scope_delete display_value="">1cffcc11d9694b00adc61c5e50d5e400</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_8c757f1f83f22210acf7f0ffeeaad3ca</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_8c757f1f83f22210acf7f0ffeeaad3ca">b6d67bdf83f22210acf7f0ffeeaad302</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 10:30:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

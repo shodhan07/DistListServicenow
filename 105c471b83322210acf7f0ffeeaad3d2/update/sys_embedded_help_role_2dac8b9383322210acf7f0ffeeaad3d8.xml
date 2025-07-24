@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1645407_distlist.dist_admins" name="x_1645407_distlist.dist_admins">29ac8b9383322210acf7f0ffeeaad3d5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 06:57:02</sys_created_on>
+        <sys_id>2dac8b9383322210acf7f0ffeeaad3d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>29ac8b9383322210acf7f0ffeeaad3d5</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2dac8b9383322210acf7f0ffeeaad3d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 06:57:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

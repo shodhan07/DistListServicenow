@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Manage Outlook distribution lists via ServiceNow, allowing creation, modification, owner/member management, and Deletion of email settings.</description>
+        <device_type>browser</device_type>
+        <hint>Manage Outlook distribution lists via ServiceNow, allowing creation, modification, owner/member management, and Deletion of email settings.</hint>
+        <name/>
+        <order/>
+        <roles>x_1645407_distlist.dist_admins,x_1645407_distlist.dist_users,x_1645407_distlist.dist_owners,x_1645407_distlist.dist_memebrs</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 07:12:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed30931383722210acf7f0ffeeaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DistributioncList</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>sys_app_application_ed30931383722210acf7f0ffeeaad3ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 07:12:36</sys_updated_on>
+        <title>DistributioncList</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

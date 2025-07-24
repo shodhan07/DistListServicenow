@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_3" label="Distribution list owners (at least 2, one needs to be internal)" language="en" table="x_1645407_distlist_dlnames">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <help/>
+            <hint/>
+            <label>Distribution list owners (at least 2, one needs to be internal)</label>
+            <language>en</language>
+            <name>x_1645407_distlist_dlnames</name>
+            <plural>Distribution list owners (at least 2, one needs to be internal)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:18:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Distribution list owners (at least 2, one needs to be internal)</sys_name>
+            <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+            <sys_update_name>sys_documentation_x_1645407_distlist_dlnames_u_string_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:18:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

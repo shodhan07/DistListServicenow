@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Create a new distribution list" section_id="2f1d45e383ba2210acf7f0ffeeaad341" sys_domain="global" table="x_1645407_distlist_dlnames" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
+            <sys_id>89e251ab83ba2210acf7f0ffeeaad3d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
+            <sys_id>01e251ab83ba2210acf7f0ffeeaad3d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
+            <sys_id>85e251ab83ba2210acf7f0ffeeaad3d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
+            <sys_id>0de251ab83ba2210acf7f0ffeeaad3d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_5</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
+            <sys_id>81e251ab83ba2210acf7f0ffeeaad3d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_7</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
+            <sys_id>09e251ab83ba2210acf7f0ffeeaad3d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_8</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
+            <sys_id>8de251ab83ba2210acf7f0ffeeaad3d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Create a new distribution list</caption>
+            <header>false</header>
+            <name>x_1645407_distlist_dlnames</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-23 16:18:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f1d45e383ba2210acf7f0ffeeaad341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1645407_distlist_dlnames</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+            <sys_update_name>sys_ui_section_2f1d45e383ba2210acf7f0ffeeaad341</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-23 16:18:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

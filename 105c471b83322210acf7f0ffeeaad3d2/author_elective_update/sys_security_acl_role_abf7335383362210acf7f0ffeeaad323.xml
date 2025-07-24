@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 10:06:24</sys_created_on>
+        <sys_id>abf7335383362210acf7f0ffeeaad323</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1645407_distlist_names_of_dl.x_1645407_distlist.names_of_dl_admin</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_security_acl display_value="x_1645407_distlist_names_of_dl">e3f7335383362210acf7f0ffeeaad313</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_abf7335383362210acf7f0ffeeaad323</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 10:14:16</sys_updated_on>
+        <sys_user_role display_value="x_1645407_distlist.names_of_dl_admin" name="x_1645407_distlist.names_of_dl_admin">fac9379f83f22210acf7f0ffeeaad3f0</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</application>
+        <file_path/>
+        <instance_id>67ffbf922b5f9214323ef9f66e91bf65</instance_id>
+        <instance_name>dev293067</instance_name>
+        <name>sys_security_acl_role_abf7335383362210acf7f0ffeeaad323</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-23 10:06:24</sys_created_on><sys_id>abf7335383362210acf7f0ffeeaad323</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1645407_distlist_names_of_dl.x_1645407_distlist.names_of_dl_admin</sys_name><sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package><sys_policy/><sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope><sys_security_acl display_value="x_1645407_distlist_names_of_dl">e3f7335383362210acf7f0ffeeaad313</sys_security_acl><sys_update_name>sys_security_acl_role_abf7335383362210acf7f0ffeeaad323</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-23 10:14:16</sys_updated_on><sys_user_role display_value="x_1645407_distlist.names_of_dl_admin" name="x_1645407_distlist.names_of_dl_admin">fac9379f83f22210acf7f0ffeeaad3f0</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1383988084</payload_hash>
+        <record_name>x_1645407_distlist_names_of_dl.x_1645407_distlist.names_of_dl_admin</record_name>
+        <reverted_from/>
+        <source>985c471b83322210acf7f0ffeeaad3d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 10:14:17</sys_created_on>
+        <sys_id>4fc9f3d383362210acf7f0ffeeaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19836c6d5830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 10:14:17</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>36c9f3d3a2362210017e5edf67502065</update_guid>
+        <update_guid_history>36c9f3d3a2362210017e5edf67502065:-1383988084,a7f733532e3622100f533c75d399d526:1212435562</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1645407_distlist_names_of_dl.x_1645407_distlist.names_of_dl_admin">d97d7bd783362210acf7f0ffeeaad348</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-23 10:30:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4a308baea8c945639d232769216ed831</sys_id>
+        <sys_metadata>abf7335383362210acf7f0ffeeaad323</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1645407_distlist_names_of_dl.x_1645407_distlist.names_of_dl_admin</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_parent display_value="">e3f7335383362210acf7f0ffeeaad313</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_scope_delete display_value="">1cffcc11d9694b00adc61c5e50d5e400</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_abf7335383362210acf7f0ffeeaad323</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_abf7335383362210acf7f0ffeeaad323">4fc9f3d383362210acf7f0ffeeaad365</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-23 10:30:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

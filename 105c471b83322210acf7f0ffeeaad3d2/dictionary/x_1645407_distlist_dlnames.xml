@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="be9d3f1783362210acf7f0ffeeaad30d" label="DLnames" max_length="40" name="x_1645407_distlist_dlnames" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Remove members" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Add owners" max_length="40" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Add members" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Remove owners" max_length="40" name="u_string_9" type="string"/>
+        <element label="Members" max_length="1000" name="members" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Select the distribution list" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="The distribution list has a validity of one year. The owners will be notified" max_length="40" name="u_glide_date_7" type="glide_date"/>
+        <element label="ID" mandatory="true" max_length="40" name="id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="255" name="u_string_full_utf8_2" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="SelectChoice" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Create" sequence="0" value="create"/>
+                <element inactive_on_update="false" label="Delete" sequence="1" value="delete"/>
+                <element inactive_on_update="false" label="Modify" sequence="2" value="modify"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Select the distribution list" max_length="40" name="u_string_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name of distribution list (allowed characters: A-Z, 0-9,-,.)" max_length="40" name="u_string_1" type="string"/>
+        <element label="Owners" max_length="1000" name="owners" type="string"/>
+        <element label="Names" mandatory="true" max_length="1000" name="names" type="string"/>
+        <element attributes="encode_utf8=false" default="212d85e383ba2210acf7f0ffeeaad3b6" label="New Reference" max_length="32" name="u_reference_8" reference="x_1645407_distlist_dlnames" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Distribution list owners (at least 2, one needs to be internal)" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Distribution list members" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description of distribution list" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Display name of the distribution list in Outlook:" max_length="40" name="u_string_5" type="string"/>
+        <index name="index">
+            <element name="u_reference_8"/>
+        </index>
+    </element>
+</database>
