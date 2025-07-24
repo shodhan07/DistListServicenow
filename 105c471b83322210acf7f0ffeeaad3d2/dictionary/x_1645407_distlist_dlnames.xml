@@ -8,7 +8,7 @@
         <element attributes="edge_encryption_enabled=true" label="Select the distribution list" max_length="40" name="u_string_6" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="The distribution list has a validity of one year. The owners will be notified" max_length="40" name="u_glide_date_7" type="glide_date"/>
         <element label="ID" mandatory="true" max_length="40" name="id" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="255" name="u_string_full_utf8_2" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="255" name="u_string_full_utf8_2" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="SelectChoice" mandatory="true" max_length="40" name="u_choice_1" type="string">
             <choice>
                 <element inactive_on_update="false" label="Create" sequence="0" value="create"/>
