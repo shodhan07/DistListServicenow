@@ -33,7 +33,7 @@
   g_form.setSectionDisplay('delete_anexistingdistributionlist',false);
 	}
 	
-   //Type appropriate comment here, and begin script below
+
    
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -42,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8274e17f83722210acf7f0ffeeaad3fe</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Show the Sections</sys_name>
         <sys_overrides/>
         <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
         <sys_update_name>sys_script_client_8274e17f83722210acf7f0ffeeaad3fe</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-24 13:10:50</sys_updated_on>
+        <sys_updated_on>2025-07-26 17:43:06</sys_updated_on>
         <table>x_1645407_distlist_dlnames</table>
         <type>onChange</type>
         <ui_type>0</ui_type>

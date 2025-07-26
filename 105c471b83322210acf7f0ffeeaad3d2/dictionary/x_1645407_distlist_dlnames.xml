@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="be9d3f1783362210acf7f0ffeeaad30d" label="DLnames" max_length="40" name="x_1645407_distlist_dlnames" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Remove members" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owners" max_length="40" name="u_string_12" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Add owners" max_length="40" name="u_string_7" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Add members" max_length="40" name="u_string_8" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Remove owners" max_length="40" name="u_string_9" type="string"/>

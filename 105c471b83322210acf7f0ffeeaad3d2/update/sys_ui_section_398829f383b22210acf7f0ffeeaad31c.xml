@@ -4,13 +4,27 @@
             <element>u_string_11</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-24 12:56:34</sys_created_on>
-            <sys_id>4a8829f383b22210acf7f0ffeeaad36e</sys_id>
+            <sys_created_on>2025-07-26 16:54:45</sys_created_on>
+            <sys_id>de32b4a483032210acf7f0ffeeaad3a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delete an existing distribution list" display_value="Delete an existing distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">398829f383b22210acf7f0ffeeaad31c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-24 12:56:34</sys_updated_on>
+            <sys_updated_on>2025-07-26 16:54:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_12</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-26 16:54:45</sys_created_on>
+            <sys_id>5632b4a483032210acf7f0ffeeaad3aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Delete an existing distribution list" display_value="Delete an existing distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">398829f383b22210acf7f0ffeeaad31c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-26 16:54:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
