@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>It collects the information for the modifications of the distribution lists.&#13;
+User can add the members,owners and  remove the members, owners.</description>
+        <display_title>false</display_title>
+        <internal_name>modify_an_existing_distribution_list</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 08:49:17</sys_created_on>
+        <sys_id>422c152183d32210acf7f0ffeeaad329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Modify an existing distribution list</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>item_option_new_set_422c152183d32210acf7f0ffeeaad329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 08:49:17</sys_updated_on>
+        <title>Modify an existing distribution list</title>
+        <type>one_to_many</type>
+        <version/>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

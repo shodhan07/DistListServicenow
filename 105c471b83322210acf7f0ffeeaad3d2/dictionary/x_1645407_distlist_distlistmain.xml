@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ed080ed9830fa210acf7f0ffeeaad3a6" label="DistListMain" max_length="40" name="x_1645407_distlist_distlistmain" type="collection">
+        <element label="DistributionListName" max_length="40" name="distributionlistname" type="string"/>
+        <element label="ManualDistributionListOwners" max_length="40" name="manualdistributionlistowners" type="string"/>
+        <element label="RequestorFQN" max_length="40" name="requestorfqn" type="string"/>
+        <element label="ApproverUserId" max_length="40" name="approveruserid" type="string"/>
+        <element label="LastRecertificationDate" max_length="40" name="lastrecertificationdate" type="string"/>
+        <element label="TargetUserId" max_length="40" name="targetuserid" type="string"/>
+        <element label="FullDisplayName" max_length="40" name="fulldisplayname" type="string"/>
+        <element label="AdditionalInfo" max_length="40" name="additionalinfo" type="string"/>
+        <element label="OwnersGUSKey" max_length="40" name="ownersguskey" type="string"/>
+        <element label="TargetDistributionListFQN" max_length="40" name="targetdistributionlistfqn" type="string"/>
+        <element label="ExpirationDate" max_length="40" name="expirationdate" type="string"/>
+        <element label="DistributionListType" max_length="40" name="distributionlisttype" type="string"/>
+        <element label="DeleteConfirmation" max_length="40" name="deleteconfirmation" type="string"/>
+        <element label="Request ID" max_length="40" name="request_id" type="string"/>
+        <element label="RequestorUserId" max_length="40" name="requestoruserid" type="string"/>
+        <element label="Subsidiary" max_length="40" name="subsidiary" type="string"/>
+        <element label="Id" max_length="40" name="id" type="integer"/>
+        <element label="TargetEmail" max_length="40" name="targetemail" type="string"/>
+        <element choice="1" label="Method" mandatory="true" max_length="40" name="method" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Modify an existing distribution list" sequence="1" value="modify an existing distribution list"/>
+                <element inactive_on_update="false" label="Delete an distribution list" sequence="2" value="delete an distribution list"/>
+                <element inactive_on_update="false" label="Create an distribution list" sequence="0" value="create an distribution list"/>
+            </choice>
+        </element>
+        <element label="UniqueMembers" max_length="40" name="uniquemembers" type="string"/>
+        <element label="MembersGUSKey" max_length="40" name="membersguskey" type="string"/>
+        <element label="ApproverFQN" max_length="40" name="approverfqn" type="string"/>
+    </element>
+</database>

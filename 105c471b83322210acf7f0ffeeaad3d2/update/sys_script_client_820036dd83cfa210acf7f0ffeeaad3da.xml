@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>InfoMessage</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   g_form.addInfoMessage('Here you can create or modify an OUTLOOK DISTRIBUTION LIST. Your distribution list will be provisioned and will be available latest the next day to use in Outlook. The end user guide can be found here You can find the guide  here For modify and delete, an approval request will be sent to the owner(s) of the list before it gets automatically provisioned The synch program of distribution lists membership from Lotus Notes to Outlook is decommissioned mid of February 2019.  If you cannot find your Distribution List here you must recreate it for Outlook to maintain the memberships. You can only request for your self.');
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-29 10:01:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>820036dd83cfa210acf7f0ffeeaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>InfoMessage</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>sys_script_client_820036dd83cfa210acf7f0ffeeaad3da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-29 10:01:18</sys_updated_on>
+        <table>x_1645407_distlist_dlnames</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

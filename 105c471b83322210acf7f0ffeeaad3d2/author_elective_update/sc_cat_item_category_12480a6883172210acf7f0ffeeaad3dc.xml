@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="DistributionList">aa51062083172210acf7f0ffeeaad3eb</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 09:26:27</sys_created_on>
+        <sys_id>12480a6883172210acf7f0ffeeaad3dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Can We Help You?.DistributionList</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>sc_cat_item_category_12480a6883172210acf7f0ffeeaad3dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 09:26:41</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</application>
+        <file_path/>
+        <instance_id>67ffbf922b5f9214323ef9f66e91bf65</instance_id>
+        <instance_name>dev293067</instance_name>
+        <name>sc_cat_item_category_12480a6883172210acf7f0ffeeaad3dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="DistributionList">aa51062083172210acf7f0ffeeaad3eb</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-08 09:26:27</sys_created_on><sys_id>12480a6883172210acf7f0ffeeaad3dc</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Can We Help You?.DistributionList</sys_name><sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package><sys_policy/><sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope><sys_update_name>sc_cat_item_category_12480a6883172210acf7f0ffeeaad3dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-08 09:26:41</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>721302893</payload_hash>
+        <record_name>Can We Help You?.DistributionList</record_name>
+        <reverted_from/>
+        <source>34584a6883172210acf7f0ffeeaad3ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 09:26:42</sys_created_on>
+        <sys_id>39580e6883172210acf7f0ffeeaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1988901044e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 09:26:42</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b9580e68f2172210f11cf5cbe6e27456</update_guid>
+        <update_guid_history>b9580e68f2172210f11cf5cbe6e27456:721302893</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.DistributionList">73ca11ed83932210acf7f0ffeeaad32f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 08:41:42</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4840dfaec4e0477b9a92642441c5a4d9</sys_id>
+        <sys_metadata>12480a6883172210acf7f0ffeeaad3dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.DistributionList</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_scope_delete display_value="">1cffcc11d9694b00adc61c5e50d5e400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_12480a6883172210acf7f0ffeeaad3dc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_12480a6883172210acf7f0ffeeaad3dc">39580e6883172210acf7f0ffeeaad357</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 08:41:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="59f036918303e210acf7f0ffeeaad3eb" label="DLN" max_length="40" name="x_1645407_distlist_dln" type="collection">
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Distribution list owners" max_length="40" name="distribution_list_owners" type="string"/>
+        <element label="Display name of the distribution list in Outlook" max_length="40" name="display_name_of_the_distribution_list_in_outlook" type="string"/>
+        <element label="Distribution List members" max_length="40" name="distribution_list_members" type="string"/>
+        <element label="Description of distribution list" max_length="200" name="description_of_distribution_list" type="string"/>
+    </element>
+</database>

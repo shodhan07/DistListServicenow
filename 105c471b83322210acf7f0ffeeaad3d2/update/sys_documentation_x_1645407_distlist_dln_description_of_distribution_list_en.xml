@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="description_of_distribution_list" label="Description of distribution list" language="en" table="x_1645407_distlist_dln">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>description_of_distribution_list</element>
+            <help/>
+            <hint/>
+            <label>Description of distribution list</label>
+            <language>en</language>
+            <name>x_1645407_distlist_dln</name>
+            <plural>Description of distribution lists</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-12 05:42:24</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Description of distribution list</sys_name>
+            <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+            <sys_update_name>sys_documentation_x_1645407_distlist_dln_description_of_distribution_list_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-12 05:42:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

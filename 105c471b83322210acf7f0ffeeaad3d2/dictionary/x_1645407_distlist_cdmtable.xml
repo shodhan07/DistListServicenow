@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9865fed58303e210acf7f0ffeeaad3af" label="CDMTable" max_length="40" name="x_1645407_distlist_cdmtable" type="collection">
+        <element label="UserMUID" max_length="40" name="usermuid" type="string"/>
+        <element label="Request ID" max_length="40" name="id" type="integer"/>
+        <element label="UserManager" max_length="40" name="usermanager" type="string"/>
+        <element label="UserMail" max_length="100" name="usermail" type="string"/>
+        <element label="UserFQN" max_length="40" name="userfqn" type="string"/>
+    </element>
+</database>

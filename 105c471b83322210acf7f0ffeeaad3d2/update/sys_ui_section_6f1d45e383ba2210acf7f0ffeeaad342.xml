@@ -1,72 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Modify an existing distribution list" section_id="6f1d45e383ba2210acf7f0ffeeaad342" sys_domain="global" table="x_1645407_distlist_dlnames" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_6</element>
+            <element>u_reference_1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-24 12:55:27</sys_created_on>
-            <sys_id>6d48e1f383b22210acf7f0ffeeaad326</sys_id>
+            <sys_created_on>2025-07-29 10:20:49</sys_created_on>
+            <sys_id>95d4b2d58303e210acf7f0ffeeaad38e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modify an existing distribution list" display_value="Modify an existing distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">6f1d45e383ba2210acf7f0ffeeaad342</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-24 12:55:27</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:20:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_6</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-29 10:20:49</sys_created_on>
+            <sys_id>9dd4b2d58303e210acf7f0ffeeaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Modify an existing distribution list" display_value="Modify an existing distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">6f1d45e383ba2210acf7f0ffeeaad342</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-29 10:20:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_7</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-24 12:55:27</sys_created_on>
-            <sys_id>2948e1f383b22210acf7f0ffeeaad327</sys_id>
+            <sys_created_on>2025-07-29 10:20:49</sys_created_on>
+            <sys_id>95d4b2d58303e210acf7f0ffeeaad38f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modify an existing distribution list" display_value="Modify an existing distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">6f1d45e383ba2210acf7f0ffeeaad342</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-24 12:55:27</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:20:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_8</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-24 12:55:27</sys_created_on>
-            <sys_id>ad48e1f383b22210acf7f0ffeeaad327</sys_id>
+            <sys_created_on>2025-07-29 10:20:49</sys_created_on>
+            <sys_id>9dd4b2d58303e210acf7f0ffeeaad38f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modify an existing distribution list" display_value="Modify an existing distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">6f1d45e383ba2210acf7f0ffeeaad342</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-24 12:55:27</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:20:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_9</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-24 12:55:27</sys_created_on>
-            <sys_id>2548e1f383b22210acf7f0ffeeaad328</sys_id>
+            <sys_created_on>2025-07-29 10:20:49</sys_created_on>
+            <sys_id>95d4b2d58303e210acf7f0ffeeaad390</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modify an existing distribution list" display_value="Modify an existing distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">6f1d45e383ba2210acf7f0ffeeaad342</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-24 12:55:27</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:20:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_10</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-24 12:55:27</sys_created_on>
-            <sys_id>a948e1f383b22210acf7f0ffeeaad328</sys_id>
+            <sys_created_on>2025-07-29 10:20:49</sys_created_on>
+            <sys_id>9dd4b2d58303e210acf7f0ffeeaad390</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modify an existing distribution list" display_value="Modify an existing distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">6f1d45e383ba2210acf7f0ffeeaad342</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-24 12:55:27</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:20:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

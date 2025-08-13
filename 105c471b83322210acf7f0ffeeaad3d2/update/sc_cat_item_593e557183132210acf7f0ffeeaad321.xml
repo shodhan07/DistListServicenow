@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Hardware">d258b953c611227a0146101fb1be7c31</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-01 00:00:00</delivery_time>
+        <description><![CDATA[<p><span id="87074213-73d9-26a5-87d2-bf580e3691d0"><span id="5db5d66b-7dc1-09eb-a793-35e4ae12c68f_8bf919fc-e383-90e1-8bb0-e61527e76fae" title="Hello Shodhan A K,">Hello,</span></span></p>
+<p><span id="43adc0e5-aca3-d48b-45cd-88f086665cd4"> </span><span id="69bbfd5f-7779-1a7e-1d0e-ebb16d2a44a1"><span id="5db5d66b-7dc1-09eb-a793-35e4ae12c68f_447b4255-c84d-52ab-f7a4-68300f3c86c9" title="Here you can create or modify an OUTLOOK DISTRIBUTION LIST. Your distribution list will be provisioned and will be available latest the next day to use in Outlook. The end user guide can be found here You can find the guide  here For modify and delete, an approval request will be sent to the owner(s) of the list before it gets automatically provisionedThe synch program of distribution lists membership from Lotus Notes to Outlook is decommissioned mid of February 2019. If you cannot find your Distribution List here you must recreate it for Outlook to maintain the memberships.">Here you can create or modify an OUTLOOK DISTRIBUTION LIST. Your distribution list will be provisioned and will be available latest the next day to use in Outlook. The end user guide can be found <a href="https://mdigital.sharepoint.com/SitePages/DW%20Tenant%20App%20Pages/Microsoft-Outlook---Distribution-Lists.aspx" rel="nofollow">here</a></span></span></p>
+<p> </p>
+<p><span id="69bbfd5f-7779-1a7e-1d0e-ebb16d2a44a1"><span id="5db5d66b-7dc1-09eb-a793-35e4ae12c68f_447b4255-c84d-52ab-f7a4-68300f3c86c9" title="Here you can create or modify an OUTLOOK DISTRIBUTION LIST. Your distribution list will be provisioned and will be available latest the next day to use in Outlook. The end user guide can be found here You can find the guide  here For modify and delete, an approval request will be sent to the owner(s) of the list before it gets automatically provisionedThe synch program of distribution lists membership from Lotus Notes to Outlook is decommissioned mid of February 2019. If you cannot find your Distribution List here you must recreate it for Outlook to maintain the memberships.">You can find the guide <a href="https://mdigital.sharepoint.com/SitePages/DW%20Tenant%20App%20Pages/Microsoft-Outlook---Distribution-Lists.aspx" rel="nofollow"> here </a></span></span></p>
+<p><span id="69bbfd5f-7779-1a7e-1d0e-ebb16d2a44a1"><span id="5db5d66b-7dc1-09eb-a793-35e4ae12c68f_447b4255-c84d-52ab-f7a4-68300f3c86c9" title="Here you can create or modify an OUTLOOK DISTRIBUTION LIST. Your distribution list will be provisioned and will be available latest the next day to use in Outlook. The end user guide can be found here You can find the guide  here For modify and delete, an approval request will be sent to the owner(s) of the list before it gets automatically provisionedThe synch program of distribution lists membership from Lotus Notes to Outlook is decommissioned mid of February 2019. If you cannot find your Distribution List here you must recreate it for Outlook to maintain the memberships.">For modify and delete, an approval request will be sent to the owner(s) of the list before it gets automatically provisioned</span></span></p>
+<p><span id="69bbfd5f-7779-1a7e-1d0e-ebb16d2a44a1"><span id="5db5d66b-7dc1-09eb-a793-35e4ae12c68f_447b4255-c84d-52ab-f7a4-68300f3c86c9" title="Here you can create or modify an OUTLOOK DISTRIBUTION LIST. Your distribution list will be provisioned and will be available latest the next day to use in Outlook. The end user guide can be found here You can find the guide  here For modify and delete, an approval request will be sent to the owner(s) of the list before it gets automatically provisionedThe synch program of distribution lists membership from Lotus Notes to Outlook is decommissioned mid of February 2019. If you cannot find your Distribution List here you must recreate it for Outlook to maintain the memberships."><br />The synch program of distribution lists membership from Lotus Notes to Outlook is decommissioned mid of February 2019.<br />If you cannot find your Distribution List here you must recreate it for Outlook to maintain the memberships.</span></span></p>
+<p> </p>
+<p><span id="8d6ddfe0-1b4e-38fa-f457-c5d96a5931e3"><span id="7a46b20e-77a7-44be-9e8f-4e5bb8b90b0c"><span id="5db5d66b-7dc1-09eb-a793-35e4ae12c68f_67fb30e5-26c3-d285-b233-e5055b94feef" title="You can only request for your self.">You can only request for your self.</span></span></span></p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta>DistList, Dist, Distribution List, List</meta>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>DistributionList-2</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>e14c6a7d83572210acf7f0ffeeaad3a2</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=593e557183132210acf7f0ffeeaad321&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>request</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="Standard items in Service Catalog">dab9529cbd002010f8775d9559d0dab6</sc_template>
+        <short_description>Distribution List Management</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-12 03:35:01</sys_created_on>
+        <sys_id>593e557183132210acf7f0ffeeaad321</sys_id>
+        <sys_mod_count>33</sys_mod_count>
+        <sys_name>DistributionList-2</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>sc_cat_item_593e557183132210acf7f0ffeeaad321</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-08-13 06:19:50</sys_updated_on>
+        <taxonomy_topic display_value="Accessories">0fb45ba7c3053010069aec4b7d40dd40</taxonomy_topic>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>72</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=593e557183132210acf7f0ffeeaad321"/>
+    <fx_price action="delete_multiple" query="id=593e557183132210acf7f0ffeeaad321"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>593e557183132210acf7f0ffeeaad321</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-12 03:35:01</sys_created_on>
+        <sys_id>ed3ed9b183132210acf7f0ffeeaad32a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-12 03:35:07</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>Screenshot 2025-08-12 144548.png</file_name>
+        <hash>d26f5625799b9b61534b30cdb80a5b60cc56f6b65a2e67e9034f564203b0cb73</hash>
+        <image_height>75</image_height>
+        <image_width>84</image_width>
+        <size_bytes>3075</size_bytes>
+        <size_compressed>3072</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-12 09:16:05</sys_created_on>
+        <sys_id>e14c6a7d83572210acf7f0ffeeaad3a2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-12 09:16:19</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>593e557183132210acf7f0ffeeaad321</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Screenshot 2025-08-12 144548.png" sys_id="e14c6a7d83572210acf7f0ffeeaad3a2">e14c6a7d83572210acf7f0ffeeaad3a2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-12 09:16:05</sys_created_on>
+        <sys_id>254c6a7d83572210acf7f0ffeeaad3a2</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4084</length>
+        <position>1</position>
+        <sys_attachment display_value="Screenshot 2025-08-12 144548.png" sys_id="e14c6a7d83572210acf7f0ffeeaad3a2">e14c6a7d83572210acf7f0ffeeaad3a2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-12 09:16:05</sys_created_on>
+        <sys_id>a54c6a7d83572210acf7f0ffeeaad3a2</sys_id>
+    </sys_attachment_doc>
+</record_update>

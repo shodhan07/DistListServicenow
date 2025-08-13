@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Distribution List">5bc0688883572210acf7f0ffeeaad3c5</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-06 12:49:32</sys_created_on>
+        <sys_id>7193208c83572210acf7f0ffeeaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Distribution List</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>sc_cat_item_category_7193208c83572210acf7f0ffeeaad360</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-06 12:49:32</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</application>
+        <file_path/>
+        <instance_id>67ffbf922b5f9214323ef9f66e91bf65</instance_id>
+        <instance_name>dev293067</instance_name>
+        <name>sc_cat_item_category_7193208c83572210acf7f0ffeeaad360</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Distribution List">5bc0688883572210acf7f0ffeeaad3c5</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-06 12:49:32</sys_created_on><sys_id>7193208c83572210acf7f0ffeeaad360</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Distribution List</sys_name><sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package><sys_policy/><sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope><sys_update_name>sc_cat_item_category_7193208c83572210acf7f0ffeeaad360</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-06 12:49:32</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1436824691</payload_hash>
+        <record_name>Services.Distribution List</record_name>
+        <reverted_from/>
+        <source>d38c1e3b83762210acf7f0ffeeaad34b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-06 12:49:32</sys_created_on>
+        <sys_id>3593208c83572210acf7f0ffeeaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1987f6e033c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-06 12:49:32</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>3993208cb55722100e8447f34f9ffd63</update_guid>
+        <update_guid_history>3993208cb55722100e8447f34f9ffd63:-1436824691</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Distribution List">0325a92d83d32210acf7f0ffeeaad3be</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 09:26:58</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>02959a27d6c74c8b802c773566042f69</sys_id>
+        <sys_metadata>7193208c83572210acf7f0ffeeaad360</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Distribution List</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_scope_delete display_value="">1cffcc11d9694b00adc61c5e50d5e400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7193208c83572210acf7f0ffeeaad360</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7193208c83572210acf7f0ffeeaad360">3593208c83572210acf7f0ffeeaad364</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 09:26:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

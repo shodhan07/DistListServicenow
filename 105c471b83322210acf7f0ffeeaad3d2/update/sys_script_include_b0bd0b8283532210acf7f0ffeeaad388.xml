@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1645407_distlist.DistributionListUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>DistributionListUtils</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[   var DistributionListUtils = Class.create();
+   DistributionListUtils.prototype = {
+       initialize: function() {},
+       
+       getDistributionList: function(id) {
+           var gr = new GlideRecord('x_1645407_distlist_dln');
+           if (gr.get(id)) {
+               return {
+                   name: gr.name,
+                   displayName: gr.display_name_of_the_distribution_list_in_outlook,
+                   owners: gr.distribution_list_owners,
+                   members: gr.distribution_list_members
+               };
+           }
+           return null; // Return null if not found
+       },
+       
+       type: 'DistributionListUtils'
+   };
+]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-13 06:29:34</sys_created_on>
+        <sys_id>b0bd0b8283532210acf7f0ffeeaad388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DistributionListUtils</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>sys_script_include_b0bd0b8283532210acf7f0ffeeaad388</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-13 06:29:34</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>b0bd0b8283532210acf7f0ffeeaad388</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-13 06:29:33</sys_created_on>
+        <sys_id>7fbf438283532210acf7f0ffeeaad3b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-13 06:29:33</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

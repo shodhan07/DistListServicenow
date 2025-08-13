@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>modify_an_existing_distribution_list_dl</internal_name>
+        <layout>2across</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 08:50:13</sys_created_on>
+        <sys_id>40ac5d2183d32210acf7f0ffeeaad3cd</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Modify an existing distribution list</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_update_name>item_option_new_set_40ac5d2183d32210acf7f0ffeeaad3cd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-08-11 08:59:52</sys_updated_on>
+        <title>Modify an existing distribution list</title>
+        <type>one_to_many</type>
+        <version>6</version>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</application>
+        <file_path/>
+        <instance_id>67ffbf922b5f9214323ef9f66e91bf65</instance_id>
+        <instance_name>dev293067</instance_name>
+        <name>item_option_new_set_40ac5d2183d32210acf7f0ffeeaad3cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>false</display_title><internal_name>modify_an_existing_distribution_list_dl</internal_name><layout>2across</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-11 08:50:13</sys_created_on><sys_id>40ac5d2183d32210acf7f0ffeeaad3cd</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Modify an existing distribution list</sys_name><sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package><sys_policy/><sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope><sys_update_name>item_option_new_set_40ac5d2183d32210acf7f0ffeeaad3cd</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2025-08-11 08:59:52</sys_updated_on><title>Modify an existing distribution list</title><type>one_to_many</type><version>6</version><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>835260407</payload_hash>
+        <record_name>Modify an existing distribution list</record_name>
+        <reverted_from/>
+        <source>d38c1e3b83762210acf7f0ffeeaad34b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-08-11 08:59:52</sys_created_on>
+        <sys_id>1efe592583d32210acf7f0ffeeaad3d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198985b8a950000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-08-11 08:59:52</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>92fe592506d322101abfd273977240d9</update_guid>
+        <update_guid_history>92fe592506d322101abfd273977240d9:835260407,68de952556d32210784ce0103237bf8c:1043958710,1baed125c9d32210eac32ef70501f442:1252657013,508edde182d32210c283e6c0b5654ec1:1461355316,104e99e105d32210cefb60d15cc5cec5:1670053619,a6addda12dd322109b1582589365c7b0:1878751922,34cc952166d3221058bf03ef95dee1e7:-985173419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Modify an existing distribution list">d6fee1a983172210acf7f0ffeeaad3e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-08-11 10:09:48</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>385054c6a2374b3e9149aaee985d1684</sys_id>
+        <sys_metadata>40ac5d2183d32210acf7f0ffeeaad3cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Modify an existing distribution list</sys_name>
+        <sys_package display_value="DistributioncList" source="x_1645407_distlist">105c471b83322210acf7f0ffeeaad3d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DistributioncList">105c471b83322210acf7f0ffeeaad3d2</sys_scope>
+        <sys_scope_delete display_value="">1cffcc11d9694b00adc61c5e50d5e400</sys_scope_delete>
+        <sys_update_name>item_option_new_set_40ac5d2183d32210acf7f0ffeeaad3cd</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_40ac5d2183d32210acf7f0ffeeaad3cd">1efe592583d32210acf7f0ffeeaad3d9</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-08-11 10:09:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

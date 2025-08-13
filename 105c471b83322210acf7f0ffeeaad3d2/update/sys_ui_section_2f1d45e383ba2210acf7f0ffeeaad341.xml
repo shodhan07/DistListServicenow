@@ -4,13 +4,13 @@
             <element>u_string_1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
-            <sys_id>89e251ab83ba2210acf7f0ffeeaad3d0</sys_id>
+            <sys_created_on>2025-07-29 10:08:33</sys_created_on>
+            <sys_id>a902bed18303e210acf7f0ffeeaad30b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_string_2</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
-            <sys_id>01e251ab83ba2210acf7f0ffeeaad3d1</sys_id>
+            <sys_created_on>2025-07-29 10:08:33</sys_created_on>
+            <sys_id>a102bed18303e210acf7f0ffeeaad30c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_string_3</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
-            <sys_id>85e251ab83ba2210acf7f0ffeeaad3d1</sys_id>
+            <sys_created_on>2025-07-29 10:08:33</sys_created_on>
+            <sys_id>a902bed18303e210acf7f0ffeeaad30c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_string_4</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
-            <sys_id>0de251ab83ba2210acf7f0ffeeaad3d1</sys_id>
+            <sys_created_on>2025-07-29 10:08:33</sys_created_on>
+            <sys_id>a102bed18303e210acf7f0ffeeaad30d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>u_string_5</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
-            <sys_id>81e251ab83ba2210acf7f0ffeeaad3d2</sys_id>
+            <sys_created_on>2025-07-29 10:08:33</sys_created_on>
+            <sys_id>a902bed18303e210acf7f0ffeeaad30d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,27 +74,13 @@
             <element>u_glide_date_7</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
-            <sys_id>09e251ab83ba2210acf7f0ffeeaad3d2</sys_id>
+            <sys_created_on>2025-07-29 10:08:33</sys_created_on>
+            <sys_id>a102bed18303e210acf7f0ffeeaad30e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reference_8</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-23 16:43:32</sys_created_on>
-            <sys_id>8de251ab83ba2210acf7f0ffeeaad3d2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Create a new distribution list" display_value="Create a new distribution list" name="x_1645407_distlist_dlnames" sys_domain="global" view="Default view">2f1d45e383ba2210acf7f0ffeeaad341</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-23 16:43:32</sys_updated_on>
+            <sys_updated_on>2025-07-29 10:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
